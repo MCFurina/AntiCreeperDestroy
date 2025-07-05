@@ -1,0 +1,7 @@
+name: AntiCreeperDestroy
+version: '1.0'
+main: org.mcfurina.antiCreeperDestroy.AntiCreeperDestroy
+api-version: '1.21'
+authors: [ MCFurina ]
+description: 禁止苦力怕爆炸时破坏方块，但保留爆炸效果
+folia-supported: true
