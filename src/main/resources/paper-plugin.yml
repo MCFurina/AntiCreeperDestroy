@@ -1,7 +1,7 @@
 name: AntiCreeperDestroy
 version: '1.1.0'
 main: org.mcfurina.antiCreeperDestroy.AntiCreeperDestroy
-api-version: '1.21'
+api-version: '26.1.2'
 authors: [ MCFurina ]
-description: 禁止苦力怕爆炸时破坏方块和掉落物，但保留爆炸效果
+description: A simple Minecraft plugin that prevents creepers from destroying blocks and dropped items, but still retains the explosion effect and damage to players.
 folia-supported: true
